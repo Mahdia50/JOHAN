@@ -32,8 +32,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 *🎆صيد*
 *🎆سؤال*
 *🎆ديني*',
-                        rows: [
-                          {
+                    
+                          },
+                        {
                             header: 'قسم الانمي',
                             title: '.الانمي',
                             description: 'هلا',
